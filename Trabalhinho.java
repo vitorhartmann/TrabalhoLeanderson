@@ -7,6 +7,18 @@
 // Muito tempo após essas descobertas me tornei um nova pessoa, uma pessoa disposta a buscar o conhecimento na vida, onde a resposta
 // de toda a existencia da humanidade, e cheguei na conclusão de 42.
 
+
+
+
+
+
+
+// O PROBLEMA:
+// Cadastrar a nota dos 4 bimestres de um aluno
+// Calcular se o aluno foi aprovado ou reprovado 
+// Calcular o arredondamento de forma generosa (média 6.5)
+
+
 import java.util.Scanner; //Importando o scanner, se n tiver, n tem entrada de dados
 
 public class Trabalhinho {
