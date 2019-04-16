@@ -1,6 +1,3 @@
-// Aluno: Vitor A. Hartmann
-// Sistemas da informação, Noturno.
-
 // Durante este trabalho realizei viagens em busca do conhecimento, onde me levou para lugares distintos tanto da internet quanto 
 // da vida real.
 // após muito tempo de busca consegui encontrar respostas para programas que sequer foram pensados em ser desenvolvidos
@@ -11,6 +8,8 @@
 
 
 
+// Aluno: Vitor A. Hartmann
+// Sistemas da informação, Noturno.
 
 
 // O PROBLEMA:
