@@ -49,11 +49,6 @@ public class Conta {
 
 
 
-
-
-
-
-
 6) O que é classe?
     Uma classe é um gabarito para a definição de objetos. Através da definição de uma classe, descreve-se que propriedades ou atributos --o objeto terá. A definição de uma classe descreve também qual o comportamento de objetos da classe, ou seja, que funcionalidades podem ser aplicadas a objetos da classe.
 
@@ -178,9 +173,6 @@ Clientes
 #numcliente
 +setCadastrar()
 +getConsultar()
-
-
-
 
 
 
