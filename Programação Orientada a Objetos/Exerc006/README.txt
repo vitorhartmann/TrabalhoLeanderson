@@ -165,15 +165,19 @@ Clientes
 
 
 28 - Quais são os símbolos utilizados no diagrama de classe UML para representar os modificadores de acessos ao atributos e métodos? Crie um exemplo.
+
 + public
 -  private
 # protected
+_____________________
 Clientes
+_____________________
 -codPessoa
 #numcliente
+---------------------
 +setCadastrar()
 +getConsultar()
-
+______________________
 
 
 
@@ -191,8 +195,6 @@ Java correspondente.
 UML abaixo:
  
 
-
-
-
+*********** VERIFICAR FOTO NO DOCUMENTO *********************
 
 
