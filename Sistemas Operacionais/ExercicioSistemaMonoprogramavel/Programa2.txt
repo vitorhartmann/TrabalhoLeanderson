@@ -1,0 +1,8 @@
+Programa Executado:
+-------------------------
+
+Nome: Programa2.txt
+Tipo: ES
+Duração: 10 Segundos
+
+-------------------------

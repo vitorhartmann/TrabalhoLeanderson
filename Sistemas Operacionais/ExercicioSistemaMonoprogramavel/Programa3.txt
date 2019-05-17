@@ -1,0 +1,8 @@
+Programa Executado:
+-------------------------
+
+Nome: Programa3.txt
+Tipo: GPU
+Duração: 15 Segundos
+
+-------------------------

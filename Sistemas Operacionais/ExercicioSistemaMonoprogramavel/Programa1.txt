@@ -1,0 +1,8 @@
+Programa Executado:
+-------------------------
+
+Nome: Programa1.txt
+Tipo: CPU
+Duração: 6 Segundos
+
+-------------------------
