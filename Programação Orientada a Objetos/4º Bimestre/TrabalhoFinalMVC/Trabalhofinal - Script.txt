@@ -1,0 +1,5 @@
+create database trabalhofinal
+
+use trabalhojavamvc
+
+CREATE TABLE carro ( id int NOT NULL AUTO_INCREMENT PRIMARY KEY, marca varchar(50), modelo varchar(50), cor varchar(50), anomodelo Int(10));
